@@ -39,7 +39,7 @@ hr {
 }
 
 .link-primary {
-    background-color: var(--primary-color);
+    background-color: #4586d0;
     border-radius: 0.5rem;
     color: white;
     display: block;
@@ -73,7 +73,7 @@ hr {
 /** navigation **/
 
 .navigation {
-    background-color: var(--primary-color);
+    background-color: #4586d0;
     color: white;
     padding: 1rem;
     border-bottom-left-radius: 1rem;
@@ -144,7 +144,7 @@ hr {
 /** footers **/
 
 .footer {
-    background-color: var(--primary-color);
+    background-color: #4586d0;
     padding: 4rem 1rem;
     text-align: center;
     color: white;
