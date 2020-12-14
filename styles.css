@@ -86,7 +86,7 @@ hr {
 .nav-brand a {
     text-decoration: none;
     color: inherit;
-    font-size: 2rem;
+    font-size: medium;
 }
 
 .navigation .nav-pills {
